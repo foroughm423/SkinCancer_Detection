@@ -1,4 +1,4 @@
-# 🩺 Skin Cancer Classification with Transfer Learning
+# 🔬 Skin Cancer Classification with Transfer Learning
 
 This project focuses on classifying skin lesions using a CNN model with Transfer Learning (MobileNetV2) applied to the HAM10000 dataset. The goal is to predict whether a skin lesion image is benign or malignant by classifying it into one of seven diagnostic categories.
 
@@ -50,7 +50,7 @@ The dataset was split into 80% training and 20% testing sets.
 ### 🔍 Confusion Matrix  
 ![Confusion Matrix](./images/confusion_matrix.png)
 
-### 🧪 ROC Curve (AUC per class)  
+### 📈 ROC Curve (AUC per class)  
 ![ROC Curve](./images/roc_curve_per_class.png)
 
 ### 📝 Classification Report (Summary)
