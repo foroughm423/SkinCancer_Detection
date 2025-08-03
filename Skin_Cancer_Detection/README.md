@@ -78,7 +78,7 @@ The dataset was split into 80% training and 20% testing sets.
 ---
 
 ## ⚖️ License  
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ---
 
